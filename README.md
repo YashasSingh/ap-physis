@@ -23,4 +23,4 @@ In electrical circuits, compound DC circuits involve multiple components such as
   - Power is calculated as \( P = IV \), where \( P \) is power in watts.  
   - Alternative forms: \( P = I^2 R \) and \( P = \frac{V^2}{R} \).  
 
-Understanding these principles allows for efficient circuit analysis, ensuring proper functionality in electrical applications.
+
